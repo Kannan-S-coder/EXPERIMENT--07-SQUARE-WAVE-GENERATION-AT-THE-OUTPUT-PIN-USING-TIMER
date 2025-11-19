@@ -358,7 +358,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## OUTPUT :
-<img width="1918" height="1075" alt="image" src="https://github.com/user-attachments/assets/2fa1b58f-3581-466d-b2f2-9ee6b8cffe83" />
+<img width="1230" height="840" alt="image" src="https://github.com/user-attachments/assets/04f1c380-b804-468e-a078-b156baf3457a" />
+
 
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
